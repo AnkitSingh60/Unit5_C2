@@ -2,18 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "Hey Kiddo",
-      "author": "Ankit Singh"
+      "title": "json-server",
+      "author": "typicode"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "etc",
+      "body": "some comment",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "Sumit"
+    "name": "typicode"
   }
 }
