@@ -8,7 +8,7 @@
       "rent": "4555",
       "bachelor": true,
       "married": false,
-      "image": "xxxxxxxxxx",
+      "image": "http://dummyimage.com/200x100.png/cc0000/ffffff",
       "id": 1
     },
     {
@@ -19,7 +19,7 @@
       "rent": "6474",
       "bachelor": true,
       "married": false,
-      "image": "adf",
+      "image": "http://dummyimage.com/239x100.png/5fa2dd/ffffff",
       "id": 2
     },
     {
@@ -30,7 +30,7 @@
       "rent": "8137",
       "bachelor": true,
       "married": false,
-      "image": "adf",
+      "image": "http://dummyimage.com/228x100.png/ff4444/ffffff",
       "id": 3
     },
     {
@@ -41,7 +41,7 @@
       "rent": "8791",
       "bachelor": true,
       "married": false,
-      "image": "adf",
+      "image": "http://dummyimage.com/222x100.png/cc0000/ffffff",
       "id": 4
     },
     {
@@ -52,7 +52,7 @@
       "rent": "6332",
       "bachelor": true,
       "married": false,
-      "image": "adf",
+      "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
       "id": 5
     },
     {
@@ -63,7 +63,7 @@
       "rent": "7632",
       "bachelor": true,
       "married": false,
-      "image": "adf",
+      "image": "http://dummyimage.com/217x100.png/dddddd/000000",
       "id": 6
     },
     {
@@ -74,7 +74,7 @@
       "rent": "6705",
       "bachelor": true,
       "married": false,
-      "image": "adf",
+      "image": "http://dummyimage.com/112x100.png/ff4444/ffffff",
       "id": 7
     },
     {
@@ -85,7 +85,7 @@
       "rent": "5907",
       "bachelor": true,
       "married": false,
-      "image": "adf",
+      "image": "http://dummyimage.com/233x100.png/ff4444/ffffff",
       "id": 8
     },
     {
@@ -96,7 +96,7 @@
       "rent": "9594",
       "bachelor": true,
       "married": false,
-      "image": "adf",
+      "image": "http://dummyimage.com/133x100.png/ff4444/ffffff",
       "id": 9
     },
     {
@@ -107,7 +107,7 @@
       "rent": "6514",
       "bachelor": true,
       "married": false,
-      "image": "adf",
+      "image": "http://dummyimage.com/166x100.png/5fa2dd/ffffff",
       "id": 10
     },
     {
@@ -118,7 +118,7 @@
       "rent": "9289",
       "bachelor": false,
       "married": false,
-      "image": "afd",
+      "image": "http://dummyimage.com/155x100.png/cc0000/ffffff",
       "id": 11
     },
     {
@@ -129,7 +129,7 @@
       "rent": "6490",
       "bachelor": true,
       "married": false,
-      "image": "adfa",
+      "image": "http://dummyimage.com/161x100.png/5fa2dd/ffffff",
       "id": 12
     },
     {
@@ -140,7 +140,7 @@
       "rent": "7490",
       "bachelor": true,
       "married": false,
-      "image": "adfa",
+      "image": "http://dummyimage.com/222x100.png/ff4444/ffffff",
       "id": 13
     },
     {
@@ -151,7 +151,7 @@
       "rent": "7173",
       "bachelor": true,
       "married": true,
-      "image": "adfa",
+      "image": "http://dummyimage.com/163x100.png/ff4444/ffffff",
       "id": 14
     },
     {
@@ -162,7 +162,7 @@
       "rent": "9646",
       "bachelor": true,
       "married": true,
-      "image": "adfa",
+      "image": "http://dummyimage.com/106x100.png/ff4444/ffffff",
       "id": 15
     },
     {
@@ -173,7 +173,7 @@
       "rent": "5653",
       "bachelor": true,
       "married": true,
-      "image": "adfa",
+      "image": "http://dummyimage.com/153x100.png/cc0000/ffffff",
       "id": 16
     },
     {
@@ -184,7 +184,7 @@
       "rent": "8552",
       "bachelor": true,
       "married": true,
-      "image": "adfa",
+      "image": "http://dummyimage.com/148x100.png/cc0000/ffffff",
       "id": 17
     },
     {
