@@ -1,0 +1,202 @@
+{
+  "houses": [
+    {
+      "name": "Ankit",
+      "ownerName": "Ram",
+      "address": "160",
+      "areaCode": "551",
+      "rent": "4555",
+      "bachelor": true,
+      "married": false,
+      "image": "xxxxxxxxxx",
+      "id": 1
+    },
+    {
+      "name": "Wendall",
+      "ownerName": "Wendall Rotchell",
+      "address": "78 Derek Parkway",
+      "areaCode": "565145",
+      "rent": "6474",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 2
+    },
+    {
+      "name": "Ashlen",
+      "ownerName": "Ashlen Binnell",
+      "address": "12118 Farmco Way",
+      "areaCode": "45250",
+      "rent": "8137",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 3
+    },
+    {
+      "name": "Aime",
+      "ownerName": "Aime Kelshaw",
+      "address": "6 Sutteridge Terrace",
+      "areaCode": "3606",
+      "rent": "8791",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 4
+    },
+    {
+      "name": "Delcina",
+      "ownerName": "Delcina Shurrocks",
+      "address": "824 Ruskin Way",
+      "areaCode": "46550",
+      "rent": "6332",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 5
+    },
+    {
+      "name": "Missie",
+      "ownerName": "Missie Dismore",
+      "address": "1540 Warbler Plaza",
+      "areaCode": "257 08",
+      "rent": "7632",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 6
+    },
+    {
+      "name": "Ciel",
+      "ownerName": "Ciel Corsor",
+      "address": "19 Del Sol Way",
+      "areaCode": "652240",
+      "rent": "6705",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 7
+    },
+    {
+      "name": "Saba",
+      "ownerName": "Saba Roakes",
+      "address": "8 Helena Parkway",
+      "areaCode": "412787",
+      "rent": "5907",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 8
+    },
+    {
+      "name": "Ryun",
+      "ownerName": "Ryun Fallen",
+      "address": "413 Hovde Park",
+      "areaCode": "98-273",
+      "rent": "9594",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 9
+    },
+    {
+      "name": "Edy",
+      "ownerName": "Edy Berthome",
+      "address": "130 Sommers Place",
+      "areaCode": "35699",
+      "rent": "6514",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 10
+    },
+    {
+      "name": "Belicia",
+      "ownerName": "Belicia Polleye",
+      "address": "92 Lien Circle",
+      "areaCode": "631 85",
+      "rent": "9289",
+      "bachelor": false,
+      "married": false,
+      "image": "afd",
+      "id": 11
+    },
+    {
+      "name": "Amabelle",
+      "ownerName": "Amabelle Checo",
+      "address": "49559 Tomscot Hill",
+      "areaCode": "348555",
+      "rent": "6490",
+      "bachelor": true,
+      "married": false,
+      "image": "adfa",
+      "id": 12
+    },
+    {
+      "name": "Ives",
+      "ownerName": "Ives Oulner",
+      "address": "2958 Sutherland Center",
+      "areaCode": "507-0901",
+      "rent": "7490",
+      "bachelor": true,
+      "married": false,
+      "image": "adfa",
+      "id": 13
+    },
+    {
+      "name": "Patrizius",
+      "ownerName": "Patrizius Sherlaw",
+      "address": "39593 Sunnyside Hill",
+      "areaCode": "854629",
+      "rent": "7173",
+      "bachelor": true,
+      "married": true,
+      "image": "adfa",
+      "id": 14
+    },
+    {
+      "name": "Amerigo",
+      "ownerName": "Amerigo Weigh",
+      "address": "6249 Canary Circle",
+      "areaCode": "414599",
+      "rent": "9646",
+      "bachelor": true,
+      "married": true,
+      "image": "adfa",
+      "id": 15
+    },
+    {
+      "name": "Yorgo",
+      "ownerName": "Yorgo Miranda",
+      "address": "17697 Fisk Place",
+      "areaCode": "4960-320",
+      "rent": "5653",
+      "bachelor": true,
+      "married": true,
+      "image": "adfa",
+      "id": 16
+    },
+    {
+      "name": "Zachariah",
+      "ownerName": "Zachariah Morrowe",
+      "address": "6 Macpherson Road",
+      "areaCode": "14521",
+      "rent": "8552",
+      "bachelor": true,
+      "married": true,
+      "image": "adfa",
+      "id": 17
+    },
+    {
+      "name": "Sanchit",
+      "ownerName": "Krishan",
+      "address": "52 Takw",
+      "areaCode": "1230",
+      "rent": "5535161",
+      "bachelor": true,
+      "married": false,
+      "image": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Aayushi_527cd1c2a3.jpg",
+      "id": 18
+    }
+  ]
+}

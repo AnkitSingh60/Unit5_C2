@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hey Kiddo",
+      "author": "Ankit Singh"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "etc",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Sumit"
+  }
+}
